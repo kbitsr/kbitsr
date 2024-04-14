@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Richard+Kbits!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=2000&pause=1000&color=156BA9&background=FFFFFF00&center=true&random=false&width=435&lines=Hello+everyone!+%F0%9F%A4%99;I'm+Richard+Kbits;Web+Developer+;Web+Designer" />
 </h1>
 
 <h3 align="center"> A passionate developer with frontend and backend.</h3>
@@ -9,7 +9,7 @@
  
  <!-- 🔭 I’m currently working on **a marketplace** -->
  
- 🌱 I’m currently learning **Docker, SQL**
+ 🌱 I’m currently learning **Docker**
 
 💬 Ask me about **MongoDB, Express, React, Node.js**
 
