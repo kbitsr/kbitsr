@@ -1,6 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=2000&pause=1000&color=156BA9&background=FFFFFF00&center=true&random=false&width=435&lines=Hello+everyone!+%F0%9F%A4%99;I'm+Richard+Kbits;Web+Developer+;Web+Designer" />
-</h1>
+![layer](https://github.com/kbitsr/kbitsr/assets/150266370/cb792503-7fcb-4375-b90d-4c34e5001576)<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&height=30&lines=Hello+everyone!;I'm+Richard+Kbits;Web+Dveloper;Web+Design" />
+</div>
+
+![layer](https://github.com/kbitsr/kbitsr/assets/150266370/cb792503-7fcb-4375-b90d-4c34e5001576)
+
+
 
 <h3 align="center"> A passionate developer with frontend and backend.</h3>
 
